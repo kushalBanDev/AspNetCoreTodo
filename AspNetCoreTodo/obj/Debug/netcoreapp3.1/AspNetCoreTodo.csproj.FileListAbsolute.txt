@@ -92,3 +92,4 @@ C:\Users\Dell\source\repos\AspNetCoreTodo\AspNetCoreTodo\obj\Debug\netcoreapp3.1
 C:\Users\Dell\source\repos\AspNetCoreTodo\AspNetCoreTodo\obj\Debug\netcoreapp3.1\AspNetCoreTodo.dll
 C:\Users\Dell\source\repos\AspNetCoreTodo\AspNetCoreTodo\obj\Debug\netcoreapp3.1\AspNetCoreTodo.pdb
 C:\Users\Dell\source\repos\AspNetCoreTodo\AspNetCoreTodo\obj\Debug\netcoreapp3.1\AspNetCoreTodo.genruntimeconfig.cache
+C:\Users\Dell\source\repos\AspNetCoreTodo\AspNetCoreTodo\obj\Debug\netcoreapp3.1\Razor\Views\Todo\Index.cshtml.g.cs

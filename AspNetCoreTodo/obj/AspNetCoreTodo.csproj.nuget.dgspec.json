@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Dell\\source\\repos\\AspNetCoreTodo\\AspNetCoreTodo\\AspNetCoreTodo.csproj": {}
+    "C:\\Users\\Dell\\source\\repos\\AspNetCoreTodo\\AspNetCoreTodo\\AspNetCoreTodo.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Dell\\source\\repos\\AspNetCoreTodo\\AspNetCoreTodo\\AspNetCoreTodo.csproj": {
+    "C:\\Users\\Dell\\source\\repos\\AspNetCoreTodo\\AspNetCoreTodo\\AspNetCoreTodo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Dell\\source\\repos\\AspNetCoreTodo\\AspNetCoreTodo\\AspNetCoreTodo.csproj",
+        "projectUniqueName": "C:\\Users\\Dell\\source\\repos\\AspNetCoreTodo\\AspNetCoreTodo\\AspNetCoreTodo.csproj",
         "projectName": "AspNetCoreTodo",
-        "projectPath": "c:\\Users\\Dell\\source\\repos\\AspNetCoreTodo\\AspNetCoreTodo\\AspNetCoreTodo.csproj",
+        "projectPath": "C:\\Users\\Dell\\source\\repos\\AspNetCoreTodo\\AspNetCoreTodo\\AspNetCoreTodo.csproj",
         "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Dell\\source\\repos\\AspNetCoreTodo\\AspNetCoreTodo\\obj\\",
+        "outputPath": "C:\\Users\\Dell\\source\\repos\\AspNetCoreTodo\\AspNetCoreTodo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
