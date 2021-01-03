@@ -14412,6 +14412,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\Dell\\source\\repos\\AspNetCoreTodo\\AspNetCoreTodo\\Views\\Todo\\Index.cshtml",
+      "TargetPath": "Views\\Todo\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\Dell\\source\\repos\\AspNetCoreTodo\\AspNetCoreTodo\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
